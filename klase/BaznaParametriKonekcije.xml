@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<parametri>
-    <host>localhost</host>
-    <korisnik>root</korisnik>
-    <sifra></sifra>
-    <prefiks_baze_podataka></prefiks_baze_podataka>
-    <naziv_baze_podataka>evidencija_prakse</naziv_baze_podataka>
-</parametri>
